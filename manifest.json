@@ -1,20 +1,11 @@
 {
-    "name": "Meu App Massa",
-    "short_name": "AppMassa",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#2196f3",
-    "icons": [
-    {
-    "src": "/icons/icon-192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-    },
-    {
-    "src": "/icons/icon-512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-    }
-    ]
-    }
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "emanueliseri.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "emanueliseri.github",
+  "start_url": "/",
+  "theme_color": "#2196f3"
+}
